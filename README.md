@@ -2,6 +2,4 @@
 
 技术栈：SpringBoot + Vue + Mysql
 
-完全手写，适合小白
-
 [笔记点这里](文档/笔记.md)
